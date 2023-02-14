@@ -8,5 +8,7 @@ class AddNycePlaceActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_nyce_place)
 
+        setSupportActionBar(findViewById(R.id.toolbar_add_place))
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
     }
 }
