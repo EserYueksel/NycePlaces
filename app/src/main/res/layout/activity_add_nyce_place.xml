@@ -45,8 +45,8 @@
                     android:layout_height="wrap_content"
                     android:hint="@string/edit_text_hint_title"
                     android:inputType="textCapWords"
-                    android:textColor="@color/primary_text_color"
-                    android:textColorHint="@color/secondary_text_color"
+                    android:textColor="@color/black"
+                    android:textColorHint="#262323"
                     android:textSize="@dimen/edit_text_text_size" />
             </com.google.android.material.textfield.TextInputLayout>
 
@@ -66,8 +66,8 @@
                     android:layout_height="wrap_content"
                     android:hint="@string/edit_text_hint_description"
                     android:inputType="textCapSentences"
-                    android:textColor="@color/primary_text_color"
-                    android:textColorHint="@color/secondary_text_color"
+                    android:textColor="@color/black"
+                    android:textColorHint="#262323"
                     android:textSize="@dimen/edit_text_text_size" />
             </com.google.android.material.textfield.TextInputLayout>
 
@@ -89,8 +89,8 @@
                     android:focusableInTouchMode="false"
                     android:hint="@string/edit_text_hint_date"
                     android:inputType="text"
-                    android:textColor="@color/primary_text_color"
-                    android:textColorHint="@color/secondary_text_color"
+                    android:textColor="@color/black"
+                    android:textColorHint="#262323"
                     android:textSize="@dimen/edit_text_text_size" />
             </com.google.android.material.textfield.TextInputLayout>
 
@@ -112,8 +112,8 @@
                     android:focusableInTouchMode="false"
                     android:hint="@string/edit_text_hint_location"
                     android:inputType="text"
-                    android:textColor="@color/primary_text_color"
-                    android:textColorHint="@color/secondary_text_color"
+                    android:textColor="@color/black"
+                    android:textColorHint="#262323"
                     android:textSize="@dimen/edit_text_text_size" />
             </com.google.android.material.textfield.TextInputLayout>
 
